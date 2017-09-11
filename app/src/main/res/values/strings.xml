@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">振动采集APP</string>
+    <string name="home">首页</string>
+    <string name="vibrate_measurement">振动测量</string>
+    <string name="statement">数据报表</string>
+
+</resources>
